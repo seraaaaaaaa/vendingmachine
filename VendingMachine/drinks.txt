@@ -1,0 +1,6 @@
+ID	Drink	Price	Quantity
+1	Cola	2.0	10
+2	100plus	2.0	10
+4	Sprite	2.0	10
+3	Water	1.0	8
+5	pepsi	2.0	10
